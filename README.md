@@ -1,6 +1,5 @@
-# Morocco Prayer Times -API
+# Production Scientifique
 
-🇲🇦 **Morocco Prayer Times API ( From the Ministry of Endowments and Islamic Affairs in Morocco habous.gov.ma)** 🇲🇦
 ## Install
 
 * First Create Database :
